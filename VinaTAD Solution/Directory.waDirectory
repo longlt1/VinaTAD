@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><directory>
+	<group ID="01000000000000000000000000000000" name="Admin">	</group>
+	<group ID="6B3EDBC58C11EB4EAF916D6299EE518D" name="QuanLy">
+		<include user="sugar" ID="BBBB5E8761C5774BB864DE5C902FBA5E"/>
+	</group>
+	<group ID="3E65EF1599C0AD40AEE411D20F6ECC8E" name="GiamDoc">
+		<include user="longlt" ID="F126AA22F406D74D9B0F06A335AD8C50"/>
+	</group>
+	<group ID="9593495DF8FB774AA424439D3A9C7A1D" name="NhanVien">
+		<include user="thucha" ID="9007FD61D471A840BF74828CFFF941BD"/>
+	</group>
+	<user ID="F126AA22F406D74D9B0F06A335AD8C50" name="longlt" fullName="Le Thanh Long" password="af90963b119d27c6836e5d56d1d23a51"/>
+	<user ID="9007FD61D471A840BF74828CFFF941BD" name="thucha" fullName="Ha Minh Thuc" password="4877e9e171e2cd5c13c67df926a2b759"/>
+	<user ID="BBBB5E8761C5774BB864DE5C902FBA5E" name="sugar" fullName="Vu Hai Duong" password="ab5a96d731c0c047b145b274a1a436ad"/>
+</directory>
